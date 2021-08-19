@@ -1,0 +1,98 @@
+[2021-08-18 17:17:06] [INFO ] [TestLog:8] [] - Empezamos nuestro metodo MAIN
+[2021-08-18 17:17:06] [ERROR] [TestLog:13] [] - Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at com.clase10.TestLog.main(TestLog.java:11)
+[2021-08-18 17:17:06] [WARN ] [TestLog:15] [] - Advertencia el metodo MAIN esta por finalizar
+[2021-08-18 17:17:06] [DEBUG] [TestLog:16] [] - Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2021-08-18 17:17:06] [INFO ] [TestLog:17] [] - Finalizamos el thread MAIN
+[main] INFO  com.clase10.TestLog  - Empezamos nuestro metodo MAIN
+[main] ERROR com.clase10.TestLog  - Error por dividir por cero 
+java.lang.ArithmeticException: / by zero
+	at com.clase10.TestLog.main(TestLog.java:11)
+[main] WARN  com.clase10.TestLog  - Advertencia el metodo MAIN esta por finalizar
+[main] DEBUG com.clase10.TestLog  - Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[main] INFO  com.clase10.TestLog  - Finalizamos el thread MAIN
+[main] INFO  com.clase10.ListaPromedio  - La longitud de la lista es mayor a 5
+[main] INFO  com.clase10.ListaPromedio  - La longitud de la lista es mayor a 5
+[main] INFO  com.clase10.ListaPromedio  - La longitud de la lista es mayor a 10
+[main] ERROR com.clase10.Test  - La lista es igual a cero 
+java.lang.Exception
+	at com.clase10.ListaPromedio.<init>(ListaPromedio.java:20)
+	at com.clase10.Test.main(Test.java:20)
+[main] INFO  com.clase10.Animal  - El Leon Simba esta corriendo..
+[main] INFO  com.clase10.Animal  - El Leon Bom esta corriendo..
+[main] ERROR com.clase10.Animal  - La edad no puede ser negativa.
+[main] ERROR com.clase10.Test  - La edad del leon nulles incorrecta.
+[Ljava.lang.StackTraceElement;@2a3046da
+[main] INFO  com.clase10.Animal  - El Tigre esta corriendo..
+[main] INFO  com.clase10.Animal  - El Tigre esta corriendo..
+[main] INFO  com.clase10.Animal  - El Leon Simba esta corriendo..
+[main] INFO  com.clase10.Animal  - El Leon Bom esta corriendo..
+[main] ERROR com.clase10.Animal  - La edad no puede ser negativa.
+[main] ERROR com.clase10.Test  - La edad del leon nulles incorrecta.
+[Ljava.lang.StackTraceElement;@3cd1f1c8
+[main] INFO  com.clase10.Animal  - El Tigre esta corriendo..
+[main] INFO  com.clase10.Animal  - El Tigre esta corriendo..
+[2021-08-18 18:25:44] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:25:44] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:25:44] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:25:44] [ERROR] [Test:34] - La edad del leon nulles incorrecta.
+[Ljava.lang.StackTraceElement;@1517365b
+[2021-08-18 18:25:44] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:25:44] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:27:34] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:27:34] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:27:34] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:27:34] [ERROR] [Test:34] - La edad del leon nulles incorrecta.
+[Ljava.lang.StackTraceElement;@1517365b
+[2021-08-18 18:27:34] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:27:34] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:29:49] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:29:49] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:29:49] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:29:49] [ERROR] [Test:34] - La edad del class com.clase10.Tigre nulles incorrecta.
+[Ljava.lang.StackTraceElement;@490d6c15
+[2021-08-18 18:29:49] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:29:49] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:33:33] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:33:33] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:33:33] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:33:33] [ERROR] [Test:34] - Index -1 out of bounds for length 0
+[Ljava.lang.StackTraceElement;@65e579dc
+[2021-08-18 18:33:33] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:33:33] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:33:59] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:33:59] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:33:59] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:33:59] [ERROR] [Test:34] - Index 3 out of bounds for length 0
+[Ljava.lang.StackTraceElement;@65e579dc
+[2021-08-18 18:33:59] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:33:59] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:34:29] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:34:29] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:34:29] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:34:29] [ERROR] [Test:34] - La edad del [Ljava.lang.String;@60215eee nulles incorrecta.
+[Ljava.lang.StackTraceElement;@27082746
+[2021-08-18 18:34:29] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:34:29] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:09] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:35:09] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:35:09] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:35:09] [ERROR] [Test:34] - Index 1 out of bounds for length 0
+[Ljava.lang.StackTraceElement;@65e579dc
+[2021-08-18 18:35:09] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:09] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:35] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:35:35] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:35:35] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:35:35] [ERROR] [Test:34] - La edad del clase10 nulles incorrecta.
+[Ljava.lang.StackTraceElement;@490d6c15
+[2021-08-18 18:35:35] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:35] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:48] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-18 18:35:48] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-18 18:35:48] [ERROR] [Animal:26] - La edad no puede ser negativa.
+[2021-08-18 18:35:48] [ERROR] [Test:34] - La edad del Tigre nulles incorrecta.
+[Ljava.lang.StackTraceElement;@490d6c15
+[2021-08-18 18:35:48] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-18 18:35:48] [INFO ] [Animal:11] - El Tigre esta corriendo..
