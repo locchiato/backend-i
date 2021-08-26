@@ -96,3 +96,7 @@ java.lang.Exception
 [Ljava.lang.StackTraceElement;@490d6c15
 [2021-08-18 18:35:48] [INFO ] [Animal:11] - El Tigre esta corriendo..
 [2021-08-18 18:35:48] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-23 21:09:02] [INFO ] [Animal:14] - El Leon Simba esta corriendo..
+[2021-08-23 21:09:02] [INFO ] [Animal:14] - El Leon Bom esta corriendo..
+[2021-08-23 21:09:02] [INFO ] [Animal:11] - El Tigre esta corriendo..
+[2021-08-23 21:09:02] [INFO ] [Animal:11] - El Tigre esta corriendo..
